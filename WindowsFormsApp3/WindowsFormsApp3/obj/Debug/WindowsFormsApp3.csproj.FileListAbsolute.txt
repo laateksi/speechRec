@@ -1,0 +1,40 @@
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+c:\users\lauri\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Lauri\Dokumentit\SpecialAssignment\Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Jimbo\Entteri\Puheohjaus_Entteri\entteriPuheenTunnistus_v1.0\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Lauri\Dokumentit\Koodia\Puhe\speechRec\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
